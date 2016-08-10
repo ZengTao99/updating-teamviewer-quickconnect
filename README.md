@@ -8,4 +8,6 @@ Laissant la possibilité à mes proches de me contacter en cas de panne, ils peu
 Modifiez les variables des répertoires et lancez le script.
 
 ```bash
-git clone https://github.com/bilyboy785/Updating-TeamViewer-QuickConnect.git && chmod +x 
+git clone https://github.com/bilyboy785/updating-teamviewer-quickconnect.git && chmod +x updating-teamviewer-quickconnect/updatetvw.sh
+bash updating-teamviewer-quickconnect/updatetvw.sh
+```
